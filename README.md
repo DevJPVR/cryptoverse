@@ -1,27 +1,72 @@
-# Next.js + Tailwind CSS Example
+<h1 align="center">IGNEWS
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DevJPVR/cryptoverse?color=%2304D361">
 
-## Preview
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DevJPVR/cryptoverse">
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+  
+  <a href="https://github.com/DevJPVR/cryptoverse/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DevJPVR/cryptoverse">
+  </a>
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <a href="https://github.com/DevJPVR/cryptoverse/blob/main/LICENSE">
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
-## Deploy your own
+  <a href="#">
+    <img alt="Feito por João Pedro" src="https://img.shields.io/badge/feito%20por-JoaoPedro-%237519C1">
+  </a>
+  
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+ 
+</p>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
 
-## How to use
+<h1 align="center">
+    <img alt="cryptoverse" src="public/cryptoverse.png" />
+</h1>
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+
+<br>
+
+## 🧪 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [NextJS](https://nextjs.org)
+- [GraphCMS](https://graphcms.com/)
+- [GraphQL](https://graphql.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+
+## 🚀 Como executar
+
+Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+$ git clone https://github.com/DevJPVR/cryptoverse.git
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Para iniciá-lo, siga os passos abaixo:
+```bash
+# Instalar as dependências
+$ yarn
+# Iniciar o projeto
+$ yarn start
+```
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
+
+
+## 💻 Projeto
+
+Portal de noticias sobre cryptomoedas, em modelo de blog, desenvolvido com as mais recentes e modernas tecnologias. Utilizei NextJS no projeto, por ser escalavel, pela questão de SEO, e o principal motivo: rotas dinamicas, static generation. Para fazer as postagens de conteudo no blog, utilizei o CMS GraphCMS, gostei muito de trabalhar com esse CMS, é muito pratico, e moderno. E para fazer fetchin de dados, utilizei o GraphQL, venho aprimorando os meus conhecimentos com essa Query Language, pois acho uma maneira muito pratica e eficaz para fetchin de dados com ela. Para fazer deploy da aplicação, utilizei a vercel, por ser muito relevante no mercado, oferece melhor suporte para nextjs, variaveis ambientes, boa integração com o github.
+
+Link para testar: https://cryptoverse-bay.vercel.app/
+
+## 📝 License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/DevJPVR/cryptoverse/blob/main/LICENSE) para mais detalhes.
+
+---
+
+Feito com 💜 by JoãoPedro
