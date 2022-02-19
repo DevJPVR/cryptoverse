@@ -1,4 +1,4 @@
-<h1 align="center">IGNEWS
+<h1 align="center">Cryptoverse
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DevJPVR/cryptoverse?color=%2304D361">
