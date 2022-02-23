@@ -59,7 +59,7 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ## 💻 Projeto
 
-Portal de noticias sobre cryptomoedas, em modelo de blog, desenvolvido com as mais recentes e modernas tecnologias. Utilizei NextJS no projeto, por ser escalavel, pela questão de SEO, e o principal motivo: rotas dinamicas, static generation. Para fazer as postagens de conteudo no blog, utilizei o CMS GraphCMS, gostei muito de trabalhar com esse CMS, é muito pratico, e moderno. E para fazer fetchin de dados, utilizei o GraphQL, venho aprimorando os meus conhecimentos com essa Query Language, pois acho uma maneira muito pratica e eficaz para fetchin de dados com ela. Para fazer deploy da aplicação, utilizei a vercel, por ser muito relevante no mercado, oferece melhor suporte para nextjs, variaveis ambientes, boa integração com o github.
+Portal de notícias sobre criptomoedas, em modelo de blog, desenvolvido com as mais recentes e modernas tecnologias. Utilizei NextJS no projeto, por ser escalável, pela questão de SEO, e o principal motivo: rotas dinamicas, static generation. Para fazer postagens de conteúdo no blog, utilizei o CMS GraphCMS, gostei muito de trabalhar com esse CMS, é muito prático, e moderno. E para fazer fetching de dados, utilizei o GraphQL, venho aprimorando os meus conhecimentos com essa Query Language, pois acho uma maneira muito prática e eficaz para fetching de dados com ela. Para fazer deploy da aplicação, utilizei a vercel, por ser muito relevante no mercado, oferece melhor suporte para nextjs, variáveis ambientes, boa integração com o github.
 
 Link para testar: https://cryptoverse-bay.vercel.app/
 
